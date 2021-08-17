@@ -1,0 +1,19 @@
+{
+  "name": "cypressdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "automation",
+    "cypress"
+  ],
+  "author": "chinmaysoni",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^8.3.0"
+  }
+}
