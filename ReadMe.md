@@ -2,7 +2,7 @@
 Automated sauce demo scenarios
 
 ### Steps to run the project:
-- Clone the repo
+- Clone the repository
 ```
 git clone https://github.com/chinmaysoni/cypressdemo
 ```
