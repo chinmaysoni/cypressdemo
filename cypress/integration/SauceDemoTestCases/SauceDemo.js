@@ -1,4 +1,4 @@
-describe('sampletest',()=>{
+describe('Sauce Demo',()=>{
    
     it('Login to Sauce Demo', ()=>{
         expect(true).to.equal(true)
